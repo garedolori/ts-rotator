@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Rotate Touch To Right
+GenericName=Touch Rotator
+Comment=Rotate touchscreen to right
+Exec=ts-rotate right
+Icon=ts-rotate-right
+Terminal=false
+Categories=Graphics;System;
+

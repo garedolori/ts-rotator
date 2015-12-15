@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Rotate Touch
+Comment=ts-rotate
+Exec=ts-rotate
+Icon=ts-rotate-normal
+X-GNOME-Autostart-enabled=true
+Type=Application

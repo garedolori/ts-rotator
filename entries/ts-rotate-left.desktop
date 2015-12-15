@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Rotate Touch To Normal
+GenericName=Touch Rotator
+Comment=Rotates touchscreen to normal
+Exec=ts-rotate normal
+Icon=ts-rotate-normal
+Terminal=false
+Categories=Graphics;System;
+

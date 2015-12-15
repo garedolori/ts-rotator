@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Rotate Touch To Left
+GenericName=Touch Rotator
+Comment=Rotates touchscreen to left
+Exec=ts-rotate left
+Icon=ts-rotate-left
+Terminal=false
+Categories=Graphics;System;
+
